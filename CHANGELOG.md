@@ -1,5 +1,21 @@
 # Changelog
 
+## 2.27.0 (2026-03-13)
+
+Full Changelog: [v2.26.0...v2.27.0](https://github.com/openai/openai-python/compare/v2.26.0...v2.27.0)
+
+### Features
+
+* **api:** api update ([60ab24a](https://github.com/openai/openai-python/commit/60ab24ae722a7fa280eb4b2273da4ded1f930231))
+
+
+### Chores
+
+* **internal:** codegen related update ([4e6498e](https://github.com/openai/openai-python/commit/4e6498e2d222dd35d76bb397ba976ff53c852e12))
+* **internal:** codegen related update ([93af129](https://github.com/openai/openai-python/commit/93af129e8919de6d3aee19329c8bdef0532bd20a))
+* match http protocol with ws protocol instead of wss ([026f9de](https://github.com/openai/openai-python/commit/026f9de35d2aa74f35c91261eb5ea43d4ab1b8ba))
+* use proper capitalization for WebSockets ([a2f9b07](https://github.com/openai/openai-python/commit/a2f9b0722597627e8d01aa05c27a52015072726b))
+
 ## 2.26.0 (2026-03-05)
 
 Full Changelog: [v2.25.0...v2.26.0](https://github.com/openai/openai-python/compare/v2.25.0...v2.26.0)
